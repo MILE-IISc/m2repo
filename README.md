@@ -1,4 +1,4 @@
-# Placeholder for open source JARs missing from standard Maven Repositories
+# Placeholder for open source JARs missing from standard Maven repositories
 
 ## References:
 * [How to create a maven repository for your github project step by step](https://gist.github.com/fernandezpablo85/03cf8b0cd2e7d8527063)
